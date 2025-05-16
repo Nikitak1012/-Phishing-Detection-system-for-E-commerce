@@ -5,9 +5,7 @@ E- Commerce website is a prime target for phishing attacks, where scammers creat
 The system automatically detects and blocks phishing URLs in real-time to protect users on e-commerce platforms from scams and data theft.
 
 # How It Works:
-URL Input Collection:
-
-When a user clicks a link, the system extracts the URL for analysis.
+URL Input Collection: When a user clicks a link, the system extracts the URL for analysis.
 
 Feature Extraction: Extracts features from the URL such as length of URL, use of HTTP vs HTTPS, presence of “@” symbols, special characters, subdomains, domain age and DNS records, use of shortening services (e.g., bit.ly).
 
