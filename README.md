@@ -14,4 +14,7 @@ Machine Learning Model: The system uses a trained machine learning model such as
 Real-time Warning: If the URL is detected as phishing, the system blocks access, displays a warning to the user.
 
 Continuous Learning: The model is periodically retrained using updated datasets to improve accuracy and detect new phishing strategies.
+# Preview 
+
+[intro](https://github.com/user-attachments/assets/a192c746-cfb6-42a7-8687-c6a67b60d27b)
 
