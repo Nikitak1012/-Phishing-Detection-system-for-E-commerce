@@ -1,10 +1,10 @@
-# -Phishing-Detection-system-for-E-commerce
+# Phishing-Detection-system-for-E-commerce
 E- Commerce website is a prime target for phishing attacks, where scammers create fake websites with  deceptive URLs that mimic legitimate ones (like "amaz0n.com" instead of "amazon.com")  to steal sensitive data. Machine learning offers a smarter solution by automatically analyzing URL patterns to detect new phishing attempts in real time.
 
-# -Feature:
+# Feature:
 The system automatically detects and blocks phishing URLs in real-time to protect users on e-commerce platforms from scams and data theft.
 
-# -How It Works:
+# How It Works:
 URL Input Collection:
 
 When a user clicks a link, the system extracts the URL for analysis.
